@@ -12,7 +12,7 @@ public class AppPilotos {
 
         do {
             System.out.println("\n****\nMENU\n****\n");
-            System.out.println("1 - Cadastrar piloto");
+            System.out.println("1 - Cadastrar pilotão");
             System.out.println("2 - Listar pilotos cadastrados");
             System.out.println("3 - Localizar piloto pelo CPF");
             System.out.println("4 - Aumentar espaço de armazenamento");
